@@ -11,7 +11,13 @@ html {
 }
 
 body {
-    font-family: Muli, Helvetica, Arial, sans-serif
+    font-family: Muli, Helvetica, Arial, sans-serif;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+    background-color: #f4f4f4;
+   
 }
 
 a {
@@ -59,35 +65,9 @@ li {
 }
 
 .navbar {
-    width: 100%;
+    background-color: white;
 }
 
-
-.navbar img {
-    margin-left: 50px;
-}
-
-.navbar ul li {
-    line-height: 45px;
-    font-weight: bold;
-    display: inline-block;
-    padding: 5px;
-    margin-right: 100px;
-}
-
-.navbar ul li a {
-    color: #232322;
-    text-decoration: none;
-}
-
-.navbar a:hover {
-    transition: .5s;
-    color: #4444f4;
-}
-
-.navbar ul {
-    float: right;
-}
 
 .sidebar {
     background-color: #4484f4;
@@ -129,21 +109,14 @@ li {
 }
 
 .content {
-    margin-left: 250px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
 }
 
-.message {
-    background-color: #192A56;
-    color: white;
-    font-size: 24px;
-    text-align: center;
-    font-weight: bold;
-    line-height: 50px;
-     box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
-}
 
 .map-container {
-    margin: 50px;
+  
     border: 2px solid black;
     min-height: 500px;
 
