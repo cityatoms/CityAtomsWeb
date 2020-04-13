@@ -7,7 +7,7 @@ const getData =  (country, callback) => {
     var settings = {
         "async": true,
         "crossDomain": true,
-        "url": "https://covid-193.p.rapidapi.com/statistics?country="+country,
+        "url": "https://covid-193.p.rapidapi.com/statistics?country="+ (country == '' ? 'all' : country),
         "method": "GET",
         "headers": {
             "x-rapidapi-host": "covid-193.p.rapidapi.com",
@@ -58,7 +58,5 @@ export const renderWorldDataComponent = () => {
         getData(e.target.value, (data) => {
             renderData(data)
         })
-    })
-    
-    
+    })    
 }

@@ -1,6 +1,7 @@
 import {renderMapComponent} from '../js/components/map-data.js'
 import {renderWorldDataComponent} from '../js/components/world-data.js'
 
+renderMapComponent()
 $('#data-type').change( (e) => {
 	switch(e.target.value) {
 		case 'ca-open-data':
