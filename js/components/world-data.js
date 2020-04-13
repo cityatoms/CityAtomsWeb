@@ -1,5 +1,8 @@
 
-
+function formatNumber(num) {
+    return num.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
+}
+  
 const getData =  (country, callback) => {
     var settings = {
         "async": true,
@@ -22,17 +25,17 @@ const renderData = (data) => {
     
         <div class="tally-container">
             <h2 class="tally-type">Total Cases</h2>
-            <h3 class="tally dark" id="total-cases">${data.cases.total}</h3>
+            <h3 class="tally dark" id="total-cases">${formatNumber(data.cases.total)}</h3>
         </div>
 
         <div class="tally-container">
             <h2 class="tally-type">Total Recoveries</h2>
-            <h3 class="tally green" id="total-recoveries">${data.cases.recovered}</h3>
+            <h3 class="tally green" id="total-recoveries">${formatNumber(data.cases.recovered)}</h3>
         </div>
         
         <div class="tally-container">
             <h2 class="tally-type">Total Deaths</h2>
-            <h3 class="tally danger" id="total-deaths">${data.deaths.total}</h3>
+            <h3 class="tally danger" id="total-deaths">${formatNumber(data.deaths.total)}</h3>
         </div>
 
     `
@@ -43,6 +46,7 @@ const renderData = (data) => {
 
 
 export const renderWorldDataComponent = () => {
+    $('#data-section').html('')
     $(` <label for="">Search By Country</label>
     <input type="text" id="country-filter">`).prependTo($('#data-section'))
     $('#data-section').append(`<div id="data"></div>`)
