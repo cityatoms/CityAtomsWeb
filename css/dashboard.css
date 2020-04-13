@@ -64,6 +64,24 @@ li {
     list-style-type: none;
 }
 
+.dark {
+    color: #0A3D62;
+}
+
+.green {
+    color: #43BE31;
+}
+
+.danger {
+    color: #FF3031;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
 .navbar {
     background-color: white;
 }
@@ -114,6 +132,28 @@ li {
     margin-top: 50px;
 }
 
+.data-section {
+    margin-top: 50px;
+}
+
+.tally-container {
+    margin-top: 20px;
+}
+
+.tally-type {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 44px;
+    font-weight: 400;
+}
+
+.tally {
+    font-size: 34px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2.5px;
+  
+}
 
 .map-container {
   
