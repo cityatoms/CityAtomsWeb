@@ -1,0 +1,362 @@
+[
+    {
+        "symptom_scores": {
+            "throat": 0,
+            "smell": 1,
+            "hospital": 0,
+            "c19": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "cough": 1,
+            "breathing": 0
+        },
+        "time": "2020-04-14T20:29:17.349Z",
+        "created_at": "2020-04-14T14:59:27.758Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 0,
+        "lon": 0,
+        "time_utc": 1586876357.348765,
+        "updatedAt": "2020-04-14T14:59:27.758Z",
+        "id": "5e95cfcf809bbd5365ea65e3"
+    },
+    {
+        "symptom_scores": {
+            "throat": 0,
+            "smell": 0,
+            "hospital": 0,
+            "c19": 0,
+            "fever": 1,
+            "pneumonia": 0,
+            "cough": 1,
+            "breathing": 0
+        },
+        "time": "2020-04-14T20:29:52.036Z",
+        "created_at": "2020-04-14T14:59:52.500Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.0176147,
+        "lon": 72.8561644,
+        "time_utc": 1586876392.0366402,
+        "updatedAt": "2020-04-14T14:59:52.500Z",
+        "id": "5e95cfe8809bbd5365ea65e4"
+    },
+    {
+        "symptom_scores": {
+            "fever": 1,
+            "c19": 0,
+            "smell": 0,
+            "breathing": 0,
+            "pneumonia": 1,
+            "hospital": 0,
+            "cough": 1,
+            "throat": 0
+        },
+        "time": "2020-04-14T20:54:39.924Z",
+        "created_at": "2020-04-14T15:24:40.464Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.0176147,
+        "time_utc": 1586877879.924758,
+        "lon": 72.8561644,
+        "updatedAt": "2020-04-14T15:24:40.464Z",
+        "id": "5e95d5b8809bbd5365ea65e8"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "hospital": 0,
+            "smell": 1,
+            "breathing": 1,
+            "fever": 0,
+            "throat": 0,
+            "c19": 0,
+            "cough": 0
+        },
+        "time": "2020-04-14T21:01:01.002Z",
+        "created_at": "2020-04-14T15:31:02.286Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 0,
+        "lon": 0,
+        "time_utc": 1586878261.002418,
+        "updatedAt": "2020-04-14T15:31:02.286Z",
+        "id": "5e95d736809bbd5365ea65e9"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "hospital": 0,
+            "breathing": 1
+        },
+        "time": "2020-04-14T21:04:58.124Z",
+        "created_at": "2020-04-14T15:34:59.733Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "time_utc": 1586878498.124875,
+        "lat": 19.01761849237494,
+        "lon": 72.85616428960935,
+        "updatedAt": "2020-04-14T15:34:59.733Z",
+        "id": "5e95d823809bbd5365ea65ea"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "hospital": 0,
+            "breathing": 1
+        },
+        "time": "2020-04-14T21:06:58.099Z",
+        "created_at": "2020-04-14T15:36:58.726Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "time_utc": 1586878618.100061,
+        "lat": 19.01761849237494,
+        "lon": 72.85616428960935,
+        "updatedAt": "2020-04-14T15:36:58.726Z",
+        "id": "5e95d89a809bbd5365ea65eb"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "hospital": 0,
+            "breathing": 1
+        },
+        "time": "2020-04-14T21:08:58.175Z",
+        "created_at": "2020-04-14T15:38:58.782Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "time_utc": 1586878738.175434,
+        "lat": 19.22658518547857,
+        "lon": 72.85008156783469,
+        "updatedAt": "2020-04-14T15:38:58.782Z",
+        "id": "5e95d912809bbd5365ea65ee"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "hospital": 0,
+            "breathing": 1
+        },
+        "time": "2020-04-14T21:10:58.162Z",
+        "created_at": "2020-04-14T15:40:58.799Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "time_utc": 1586878858.162374,
+        "lat": 19.22658518547857,
+        "lon": 72.85008156783469,
+        "updatedAt": "2020-04-14T15:40:58.799Z",
+        "id": "5e95d98a809bbd5365ea65ef"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "hospital": 0,
+            "breathing": 1
+        },
+        "time": "2020-04-14T21:12:58.186Z",
+        "created_at": "2020-04-14T15:42:58.706Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "time_utc": 1586878978.186522,
+        "lat": 19.22658518547857,
+        "lon": 72.85008156783469,
+        "updatedAt": "2020-04-14T15:42:58.706Z",
+        "id": "5e95da02809bbd5365ea65f0"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "fever": 0,
+            "pneumonia": 0,
+            "hospital": 0,
+            "breathing": 1
+        },
+        "time": "2020-04-14T21:14:58.168Z",
+        "created_at": "2020-04-14T15:44:58.716Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "time_utc": 1586879098.1681929,
+        "lat": 19.294062812585494,
+        "lon": 72.8481173905507,
+        "updatedAt": "2020-04-14T15:44:58.716Z",
+        "id": "5e95da7a809bbd5365ea65f2"
+    },
+    {
+        "symptom_scores": {
+            "c19": 0,
+            "hospital": 0,
+            "pneumonia": 0,
+            "smell": 1,
+            "breathing": 1,
+            "throat": 0,
+            "fever": 0,
+            "cough": 0
+        },
+        "time": "2020-04-14T21:20:13.656Z",
+        "created_at": "2020-04-14T15:50:14.318Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.293231877032262,
+        "lon": 72.84328908460002,
+        "time_utc": 1586879413.656423,
+        "updatedAt": "2020-04-14T15:50:14.318Z",
+        "id": "5e95dbb6809bbd5365ea65f7"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T21:45:38.827Z",
+        "created_at": "2020-04-14T16:15:39.357Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.26141188547352,
+        "time_utc": 1586880938.82836,
+        "lon": 72.84906781237322,
+        "updatedAt": "2020-04-14T16:15:39.357Z",
+        "id": "5e95e1ab809bbd5365ea65fd"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T21:47:38.827Z",
+        "created_at": "2020-04-14T16:17:39.390Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.26141188547352,
+        "time_utc": 1586881058.8276172,
+        "lon": 72.84906781237322,
+        "updatedAt": "2020-04-14T16:17:39.390Z",
+        "id": "5e95e223809bbd5365ea65ff"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T21:49:38.775Z",
+        "created_at": "2020-04-14T16:19:39.220Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.2940646440048,
+        "time_utc": 1586881178.775487,
+        "lon": 72.84811733724062,
+        "updatedAt": "2020-04-14T16:19:39.220Z",
+        "id": "5e95e29b809bbd5365ea6600"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T21:51:38.825Z",
+        "created_at": "2020-04-14T16:21:39.508Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.2940646440048,
+        "time_utc": 1586881298.8256679,
+        "lon": 72.84811733724062,
+        "updatedAt": "2020-04-14T16:21:39.508Z",
+        "id": "5e95e313809bbd5365ea6601"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T21:55:24.421Z",
+        "created_at": "2020-04-14T16:25:25.146Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.2940646440048,
+        "time_utc": 1586881524.421304,
+        "lon": 72.84811733724062,
+        "updatedAt": "2020-04-14T16:25:25.146Z",
+        "id": "5e95e3f5809bbd5365ea6602"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T22:00:11.639Z",
+        "created_at": "2020-04-14T16:30:12.367Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.296424161333885,
+        "time_utc": 1586881811.638802,
+        "lon": 72.84649243286223,
+        "updatedAt": "2020-04-14T16:30:12.367Z",
+        "id": "5e95e514809bbd5365ea6603"
+    },
+    {
+        "symptom_scores": {
+            "pneumonia": 0,
+            "smell": 1,
+            "cough": 0,
+            "throat": 0,
+            "hospital": 0,
+            "breathing": 1,
+            "c19": 0,
+            "fever": 0
+        },
+        "time": "2020-04-14T22:01:38.819Z",
+        "created_at": "2020-04-14T16:31:39.377Z",
+        "imei": "3wee2sb3ejv1xamn7jczfwdgomy2",
+        "lat": 19.29633321246429,
+        "time_utc": 1586881898.820261,
+        "lon": 72.84727337443873,
+        "updatedAt": "2020-04-14T16:31:39.377Z",
+        "id": "5e95e56b809bbd5365ea6604"
+    }
+]

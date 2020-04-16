@@ -1,5 +1,5 @@
 const mapComponent = `
-    <div class="map-container">
+    <div id='map' class="map-container">
       
     </div>
 `
