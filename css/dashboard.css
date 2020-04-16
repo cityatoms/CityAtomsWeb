@@ -156,7 +156,6 @@ li {
 }
 
 .map-container {
-  
     border: 2px solid black;
     min-height: 600px;
     width: 100vw !important;
